@@ -24,7 +24,7 @@ The main files present in this repo are:
 	- Determines the parameters of the Neural Network model developed;
 	- Carries out graphical analyzes of the results obtained.
 
-> The historical data used in the model can be found [here.](./main/).
+> The historical data used in the model can be found [here.](./main/)
 
 2) [assistant.py](./main/assistant.py)
 	- Verifies and automatically installs the Python libraries used for the correct functioning of the simulation.

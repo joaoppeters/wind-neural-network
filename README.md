@@ -17,7 +17,7 @@ In all, the group applied the Neural Network in order to carry out two analyses:
 2. "**n**" amount of **past days** to forecast the **same respective hour one day ahead**.
 
 
-The main files present in this repo are:
+The main files present in this repo are in the [main folder](./main/):
 
 1) [windneural.py](./main/windneural.py): 
 	- Manipulates the historical data considering the analyzes to be carried out;

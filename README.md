@@ -1,9 +1,8 @@
 # Wind Velocity Prediction Model via Neural Networks
 
-## Pedro Henrique Peters Barbosa 
-## & João Pedro Peters Barbosa 
+## Pedro Henrique Peters Barbosa & João Pedro Peters Barbosa 
 
-contato: [pedro.peters@engenharia.ufjf.br](pedro.peters@engenharia.ufjf.br), [joao.peters@engenharia.ufjf.br](joao.peters@engenharia.ufjf.br) 
+contact: [pedro.peters@engenharia.ufjf.br](pedro.peters@engenharia.ufjf.br), [joao.peters@engenharia.ufjf.br](joao.peters@engenharia.ufjf.br) 
 
 ---
 
@@ -25,7 +24,7 @@ The main files present in this repo are:
 	- Determines the parameters of the Neural Network model developed;
 	- Carries out graphical analyzes of the results obtained.
 
-> The historical data used in the model can be found [here.](./main/grupo 3-1.xlsx).
+> The historical data used in the model can be found [here.](./main/).
 
 2) [assistant.py](./main/assistant.py)
 	- Verifies and automatically installs the Python libraries used for the correct functioning of the simulation.
